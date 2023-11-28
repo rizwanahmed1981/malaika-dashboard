@@ -1,7 +1,7 @@
 export default function Invoice(){
     return(
-        <p>
-            this is invoice
-        </p>
+        <h2>
+            Invoice
+        </h2>
     )
 }

@@ -1,7 +1,6 @@
 export default function Customer(){
     return(
-        <p>
-            for customer
-        </p>
+        <h2>Customer</h2>
+
     )
 }
